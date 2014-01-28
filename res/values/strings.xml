@@ -4,5 +4,5 @@
     <string name="app_name">GitProject1</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-	<string name="master">"Added Branch 1 Change 3"</string>
+	<string name="master">"Demo - Master - change 1"</string>
 </resources>
